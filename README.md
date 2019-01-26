@@ -24,3 +24,4 @@ I have divided this project into two parts.
       * Random Forest
       * LightGBM
 
+***lending_club.zip: contains custom classes and functions***
